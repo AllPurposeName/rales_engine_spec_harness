@@ -15,6 +15,10 @@ cd rales_engine_spec_harness
 bundle
 ```
 
+## Sample Rales Engine
+
+If you don't have a Rales Engine project of your own, clone down this [repo](https://github.com/applegrain/rales-engine) and follow the instructions
+
 ## Usage
 
 Run the tests with `rake`:
