@@ -17,7 +17,7 @@ bundle
 
 ## Sample Rales Engine
 
-If you don't have a Rales Engine project of your own, clone down this [repo](https://github.com/applegrain/rales-engine) and follow the instructions
+If you don't have a Rales Engine project of your own, [clone down this repo](https://github.com/applegrain/rales-engine) and follow the instructions
 
 ## Usage
 
